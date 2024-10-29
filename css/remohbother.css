@@ -1,0 +1,7 @@
+.bbp-template-notice {
+	display: none;
+}
+
+.bbp-template-notice.info {
+	display: block;
+}
